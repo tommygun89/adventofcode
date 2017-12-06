@@ -1,6 +1,7 @@
 **/.idea
 **/out/**/*
 **/kotlin.iml
+lib/
 
 # Prerequisites
 *.d
